@@ -1,7 +1,8 @@
 ### Olá, Eu sou o João Melo! 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🔎 Buscando minha primeira oportunidade.
+
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 12/2024).
+- 🔎 Me dedicando a cursos e buscando minha primeira oportunidade.
 - 🌱 Estudando JavaScript e SQL.
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
 <hr>
@@ -22,4 +23,6 @@
   <a href="https://instagram.com/fodjao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/fodjao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:devjoaomelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaogmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <hr>
+<br>
