@@ -1,12 +1,13 @@
-### Olá, Eu sou o João Melo! 👋
-
+## Olá, Eu sou o João Melo!👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 12/2024).
 - 🔎 Me dedicando a cursos e buscando minha primeira oportunidade.
 - 🌱 Estudando JavaScript e SQL.
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
-<hr>
-<br>
+<div align="center"><br>
+  <img alt="naruto-gif" height="130" src="https://cdn.discordapp.com/attachments/962571129493553205/1017139778644357150/naruto-hokage.gif?   width=676&height=676"></img>
+  <p align="center">That's my Ninja way!</p>
+  <hr></hr></div>
 <div align="center">
   <a href="https://github.com/devjoaomelo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devjoaomelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,6 +24,23 @@
   <a href="https://instagram.com/fodjao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/fodjao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:devjoaomelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaogmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <hr>
-<br>
+  <a href="https://www.linkedin.com/in/joaogmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+<hr><br>
+
+
+## Últimos Projetos: (Constante atualização)
+<img align="right" alt="naruto-gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/962571129493553205/1017143930703323187/pikaxe.gif?width=676&height=676"></img>
+<div align="left">
+<strong>Front-End:</strong>
+    <li>
+        <a href="https://devjoaomelo.github.io/projeto-android/">Projeto Android</a> - HTML5 CSS3 </li>
+    <li>
+        <a href="https://devjoaomelo.github.io/projeto-cordel/">Projeto Cordel</a> - HTML5 CSS3</li>
+</div>
+
+<hr>
+
+<strong>Back-End:</strong>
+
+</div>
+
