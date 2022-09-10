@@ -43,7 +43,7 @@
 
 <hr>
 
-<strong>Back-End:</strong>
+<strong>Faculdade:</strong>
   <li>
         <a href="https://github.com/devjoaomelo/ADS-estudos/tree/main/python-modulo01">ADS-Desafios-Modulo01</a> - Python</li>
 
