@@ -36,7 +36,7 @@
 <div align="left">
 <strong>Front-End:</strong>
     <li>
-        <a href="https://devjoaomelo.github.io/formulario-htmlcss/>Formulário Básico- HTML5 CSS3</li>
+        <a href="https://devjoaomelo.github.io/formulario-htmlcss/>Formulário Básico</a> - HTML5 CSS3</li>
     <li>
         <a href="https://devjoaomelo.github.io/projeto-android/">Projeto Android</a> - HTML5 CSS3 </li>
     <li>
