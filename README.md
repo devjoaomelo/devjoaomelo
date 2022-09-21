@@ -32,6 +32,8 @@
 <div align="left">
 <strong>Front-End:</strong>
     <li>
+      <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/imc/"Calculadora de IMC</a> - JavaScript CSS3 HTML5 
+    <li>
         <a href="https://devjoaomelo.github.io/projeto-android/">Projeto Android</a> - HTML5 CSS3 </li>
     <li>
         <a href="https://devjoaomelo.github.io/projeto-cordel/">Projeto Cordel</a> - HTML5 CSS3</li>
