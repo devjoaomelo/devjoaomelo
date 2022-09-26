@@ -9,7 +9,7 @@
   <p align="center">That's my Ninja way!</p>
   <hr></hr></div>
   <div align="center">
-  <img height="350" width="140" align="center" src="https://github-readme-stats.vercel.app/api?username=devjoaomelo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="140" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=devjoaomelo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomelo&layout=compact&langs_count=7&theme=react" />
   </div>
 
