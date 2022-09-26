@@ -8,9 +8,10 @@
   <img alt="naruto-gif" height="130" src="https://cdn.discordapp.com/attachments/962571129493553205/1017139778644357150/naruto-hokage.gif?   width=676&height=676"></img>
   <p align="center">That's my Ninja way!</p>
   <hr></hr></div>
+  <div>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=devjoaomelo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomelo&layout=compact&langs_count=7&theme=react" />
-
+  </div>
 
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="Jm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
