@@ -34,13 +34,14 @@
 ## Últimos Projetos: (Constante atualização)
 <img align="right" alt="naruto-gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/962571129493553205/1017143930703323187/pikaxe.gif?width=676&height=676"></img>
 <div align="left">
-<strong>Front-End:</strong>
+<strong>Cursos:</strong>
+    <li>
+        <a href="https://devjoaomelo.github.io/github-favorites/">Github Favoritos</a> JavaScript / API </li>
     <li>
         <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/imc/">Calculadora de IMC</a> - JavaScript HTML5 CSS3 </li>
     <li>
         <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/timer/">Timer</a> - JavaScript HTML5 CSS3</li>
-    <li>
-        <a href="https://devjoaomelo.github.io/projeto-android/">Projeto Android</a> - HTML5 CSS3 </li>
+    
     
     
 </div>
