@@ -36,7 +36,7 @@
 <div align="left">
 <strong>Cursos:</strong>
     <li>
-        <a href="https://devjoaomelo.github.io/github-favorites/">Github Favoritos</a> JavaScript / API </li>
+        <a href="https://devjoaomelo.github.io/github-favorites/">Github Favoritos</a> - JavaScript / API </li>
     <li>
         <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/imc/">Calculadora de IMC</a> - JavaScript HTML5 CSS3 </li>
     <li>
