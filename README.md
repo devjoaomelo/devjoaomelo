@@ -27,21 +27,7 @@
  	<a href="https://www.twitch.tv/fodjao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:devjoaomelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaogmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
-<hr><br>
-
-
-## Últimos Projetos: (Constante atualização)
-<img align="right" alt="naruto-gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/962571129493553205/1017143930703323187/pikaxe.gif?width=676&height=676"></img>
-<div align="left">
-<strong>Cursos:</strong>
-    <li>
-        <a href="https://devjoaomelo.github.io/github-favorites/">Github Favoritos</a> - JavaScript / API </li>
-    <li>
-        <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/imc/">Calculadora de IMC</a> - JavaScript HTML5 CSS3 </li>
-    <li>
-        <a href="https://devjoaomelo.github.io/JS-prac/Desafios-html-css-js/timer/">Timer</a> - JavaScript HTML5 CSS3</li>
-    
-    
+<hr><br>  
     
 </div>
 
