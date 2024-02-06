@@ -1,7 +1,6 @@
 ## Olá, Eu sou o João Melo!👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 12/2024).
-- 🔎 Me dedicando a cursos e buscando minha primeira oportunidade.
 - 🌱 Estudando Python / JavaScript / Node.js / Flask 
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
 <div align="center"><br>
