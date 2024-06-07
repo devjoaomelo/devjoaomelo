@@ -1,6 +1,6 @@
 ## Olá, Eu sou o João Melo!👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 12/2024).
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 01/2025).
 - 🌱 Estudando C#
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
 <div align="center"><br>
