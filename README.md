@@ -1,7 +1,7 @@
 ## Olá, Eu sou o João Melo!👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas (07/2022 | 01/2025).
-- 🌱 Estudando C#
+- 🌱 Estudando .NET
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
 <div align="center"><br>
   <img alt="naruto-gif" height="130" src="https://cdn.discordapp.com/attachments/962571129493553205/1017139778644357150/naruto-hokage.gif?   width=676&height=676"></img>
