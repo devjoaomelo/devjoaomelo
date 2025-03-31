@@ -1,6 +1,6 @@
 ## Olá, Eu sou o João Melo!👋
 
-- 🔭 Formado em Análise e Desenvolvimento de Sitemas.
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Pós graduando em Arquitetura de Sistemas .NET com Azure na FIAP
 - 💼 Objetivo de me tornar um desenvolvedor full-stack.
 <div align="center"><br>
