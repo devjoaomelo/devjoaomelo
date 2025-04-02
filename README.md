@@ -2,7 +2,7 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Pós graduando em Arquitetura de Sistemas .NET com Azure na FIAP
-- 💼 Objetivo de me tornar um desenvolvedor full-stack.
+- 💼 Objetivo de me tornar um desenvolvedor ASP.NET.
 <div align="center"><br>
   <img alt="naruto-gif" height="130" src="https://cdn.discordapp.com/attachments/962571129493553205/1017139778644357150/naruto-hokage.gif?   width=676&height=676"></img>
   <p align="center">That's my Ninja way!</p>
