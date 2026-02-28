@@ -41,7 +41,7 @@ Focado em criar soluções escaláveis, resilientes e de alta performance.
 
 ---
 
-### [FCG Games - Tech Challenge - Plataforma E-Commerce][(https://github.com/devjoaomelo/fiap-cloud-games-etapa4)]
+### [FCG Games - Tech Challenge - Plataforma E-Commerce](https://github.com/devjoaomelo/fiap-cloud-games-etapa4)
 
 > E-commerce completo de jogos digitais com arquitetura em nuvem e integração de pagamentos
 
@@ -95,54 +95,6 @@ Focado em criar soluções escaláveis, resilientes e de alta performance.
 ### Testes
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaomelo&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomelo&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## Áreas de Expertise
-```csharp
-public class Expertise
-{
-    public List<string> Architecture { get; set; } = new()
-    {
-        "Microservices",
-        "Clean Architecture",
-        "Event-Driven Architecture",
-        "Domain-Driven Design (DDD)",
-        "CQRS",
-        "API RESTful"
-    };
-
-    public List<string> Practices { get; set; } = new()
-    {
-        "SOLID Principles",
-        "Design Patterns",
-        "TDD/BDD",
-        "CI/CD",
-        "DevOps",
-        "Agile/Scrum"
-    };
-
-    public List<string> Cloud { get; set; } = new()
-    {
-        "Docker",
-        "Kubernetes",
-        "Azure",
-        "Microservices Orchestration"
-    };
-}
-```
 
 ---
 
